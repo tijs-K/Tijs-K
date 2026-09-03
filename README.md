@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer focused on building robust backend systems, automation tools, and interactive applications. Currently actively seeking full-time software engineering roles. When I’m not applying or sharpening my core stack—primarily Python, Linux, Docker, and Redis—I build practical side projects, such as a real-time vision system that translates hand-tracking gestures directly into desktop cursor control. Let's connect!
+Software Developer focused on building robust backend systems, automation tools, and interactive applications. Currently actively seeking full-time software engineering roles. When I’m not applying or sharpening my core stack—primarily Python, Linux, Docker, and Redis—I build practical side projects, such as a real-time vision system that translates hand-tracking gestures directly into desktop cursor control. Let's connect!
 
 
 ## 🌐 Socials:
